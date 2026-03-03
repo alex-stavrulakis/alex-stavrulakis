@@ -2,7 +2,7 @@
 
 MSCS Student (4.0 GPA) | Applied Machine Learning & Data Systems  
 Former Associate Software Engineer @ NextGen Federal Systems  
-Backend & ML-Focused Engineer
+Ai & ML-Focused Engineer
 
 ---
 
