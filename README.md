@@ -1,8 +1,7 @@
 # Alex Stavrulakis
 
-AI / ML Engineer | MSCS (Machine Learning Focus)  
-AI Graduate Certificate (In Progress)  
-Deep Learning • NLP • Generative AI • ML Systems  
+Applied AI & ML Engineer | Generative AI & NLP Focus
+MSCS (Machine Learning) + AI Graduate Certificate
 Former Associate Software Engineer @ NextGen Federal Systems  
 
 ---
