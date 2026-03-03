@@ -36,7 +36,27 @@ Advanced focus in:
 - Intelligent & autonomous systems
 - Ethical AI system design
 
+## 📚 Current & Upcoming Advanced AI Coursework
+
+Beginning Spring Term 2 2026:
+
+- CSCA 5112 — Introduction to Generative AI  
+  Foundations of generative models, LLM concepts, representation learning, and generative systems design.
+
+- CSCA 5322 — Deep Learning for Computer Vision  
+  Advanced CNN architectures, training dynamics, and vision system design.
+
+- CSCA 5422 — Modern AI Models for Vision & Multimodal Understanding  
+  Multimodal transformers, cross-modal alignment, vision-language systems.
+
+- CSCA 5834 — Modeling of Autonomous Systems  
+  Control-aware AI, system modeling, and intelligent system integration.
+
+- CSCA 5842 — Deep Learning for Natural Language Processing  
+  Transformer architectures, sequence modeling, advanced NLP systems.
+
 ---
+
 
 ## 🤖 Applied AI & ML Work
 
