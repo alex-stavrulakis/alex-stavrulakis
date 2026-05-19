@@ -6,7 +6,7 @@ Former Associate Software Engineer @ NextGen Federal Systems
 
 ---
 
-## 🚀 AI Focus
+## AI Focus
 
 I design and analyze machine learning systems with emphasis on:
 
@@ -21,7 +21,7 @@ My work bridges rigorous graduate-level AI training with real-world distributed 
 
 ---
 
-## 🎓 Graduate Education
+## Graduate Education
 
 **M.S. Computer Science – Machine Learning Focus (4.0 GPA)**  
 University of Colorado Boulder  
@@ -35,7 +35,7 @@ Advanced focus in:
 - Intelligent & autonomous systems
 - Ethical AI system design
 
-## 📚 Current & Upcoming Advanced AI Coursework
+## Current & Upcoming Advanced AI Coursework
 
 Beginning Spring Term 2 2026:
 
@@ -57,7 +57,7 @@ Beginning Spring Term 2 2026:
 ---
 
 
-## 🤖 Applied AI & ML Work
+## Applied AI & ML Work
 
 ### Supervised Learning
 - Vectorized logistic regression with L2 regularization
@@ -90,7 +90,7 @@ Beginning Spring Term 2 2026:
 
 ---
 
-## 🧠 Generative AI & Representation Learning Trajectory
+## Generative AI & Representation Learning Trajectory
 
 Current and upcoming specialization areas:
 
@@ -104,7 +104,7 @@ Current and upcoming specialization areas:
 
 ---
 
-## 🏗 AI Systems Engineering Experience
+## AI Systems Engineering Experience
 
 ### Associate Software Engineer – NextGen Federal Systems
 
@@ -120,7 +120,7 @@ This experience grounds my AI work in real-world system reliability and deployme
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 
 Languages  
 Python • Java • C++ • TypeScript  
@@ -143,7 +143,7 @@ React • Redux • MUI
 
 ---
 
-## 🎯 Career Focus
+## Career Focus
 
 Targeting roles in:
 
@@ -155,7 +155,7 @@ Targeting roles in:
 
 ---
 
-## 🔐 Full Graduate Implementations
+## Full Graduate Implementations
 
 Full notebooks and experiments are maintained privately due to academic integrity requirements.
 
@@ -163,7 +163,7 @@ Access available upon request for recruiters and hiring managers.
 
 ---
 
-## 📬 Contact
+## Contact
 
 LinkedIn: https://www.linkedin.com/in/alexanthros-stavrulakis  
 Email: alst9423@colorado.edu
